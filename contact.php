@@ -23,7 +23,7 @@
         }
     }
 ?>
-<!-- Creación de la página de Contactos-->
+<!-- Creación del botón de Enviar-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -130,5 +130,5 @@
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
-    <!-- Aquí termina la página de Contactos-->
+    <!-- Creación del botón de Enviar-->
 </html>
