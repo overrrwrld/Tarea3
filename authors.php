@@ -13,7 +13,7 @@ try {
     die('Error en la consulta a la base de datos: ' . $e->getMessage());
 }
 ?>
-<!-- Creación de la página de Libros-->
+<!-- Creación de la página de Autores-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -103,5 +103,5 @@ try {
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
-    <!-- Aquí termina la página de Contactos-->
+    <!-- Aquí termina la página de Autores-->
 </html>
