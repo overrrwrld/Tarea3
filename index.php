@@ -19,7 +19,7 @@ try {
     die('Error en la consulta a la base de datos: ' . $e->getMessage());
 }
 ?>
-
+<!-- Aquí se crea la main page-->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -115,4 +115,5 @@ try {
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
+    <!-- Aquí acaba la main page-->
 </html>
